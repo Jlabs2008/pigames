@@ -4,6 +4,7 @@ import os
 import time as t
 import mmap
 import sys
+import tkinter as tk
 
 # Gathers the digits
 def digit_gather(pi_file):
